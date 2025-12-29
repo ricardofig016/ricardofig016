@@ -1,29 +1,18 @@
 # Hi, I'm Ricardo Figueiredo 👋
 
-I'm a Computer Science student passionate about building impactful software applications.
+I'm a fullstack developer building impactful software applications.
 
 ## 📑 Index
 
 - [Hi, I'm Ricardo Figueiredo 👋](#hi-im-ricardo-figueiredo-)
   - [📑 Index](#-index)
   - [🚀 What I Can Do](#-what-i-can-do)
-  - [👨‍💻 Favorite Projects (TBA)](#-favorite-projects-tba)
-  - [🔧 Technologies (TBA)](#-technologies-tba)
   - [🌱 Currently Learning](#-currently-learning)
   - [💬 Contact Me](#-contact-me)
 
 ## 🚀 What I Can Do
 
 If you're new here, start by exploring some of my top projects featured on my [portfolio](https://ricardofig016.github.io/).
-
-## 👨‍💻 Favorite Projects (TBA)
-
-- [Project 1](link) - Brief description
-- [Project 2](link) - Brief description
-
-## 🔧 Technologies (TBA)
-
-C++, Python, JavaScript, React, ...
 
 ## 🌱 Currently Learning
 
